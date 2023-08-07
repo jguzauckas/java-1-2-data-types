@@ -9,6 +9,7 @@ We are going to start with the most basic data types, referred to as the **primi
 Advanced Note: This will be contrasted at a later date with **referential data types**, which store more complex information and instead of storing the information directly in the memory tied to the variable, stores a reference in the memory tied to the variable to a different location in memory where the larger and more complex information is stored.
 
 The basic types in Java cover 3 main types of information:
+
 - Numbers
 - True/False
 - Letters (characters)
@@ -73,7 +74,7 @@ Advanced Note: While booleans do not hold much information, they are extremely s
 
 ## `final` Keyword
 
-When we don't want a variable's value to change after we create it, we use the keyword `final` at the beginning of the declaration. 
+When we don't want a variable's value to change after we create it, we use the keyword `final` at the beginning of the declaration.
 
 Let's look at this code sample from `NotesFinal1.java`:
 
@@ -124,6 +125,7 @@ Now that you have gone through the notes for this section, you can check out the
 ## Advanced Notes - Other Primitive Types
 
 Here is some basic information about other whole number types:
+
 - `byte` - takes up a byte (8 bits) of memory. First bit is used for sign and the other 7 bits are used for value. Can store -128 to 127.
 - `short` - takes up 2 bytes (16 bits) of memory. First bit is used for sign and the other 15 bits are used for value. Can store -32,768 to 32,767.
 - `long` - takes up 8 bytes (64 bits) of memory. First bit is used for sign and the other 63 bits are used for value. Can store -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807.
