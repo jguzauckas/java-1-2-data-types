@@ -1,4 +1,4 @@
-public class Assignment {
+public class Try {
     public static void main (String[] args){
          variable1 = 5.42;
          variable2 = true;

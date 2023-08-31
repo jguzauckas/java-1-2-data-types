@@ -1,6 +1,6 @@
-# Assignment
+# Initial Try
 
-Using the starting sample code in the `Assignment.java` file, try to match a data type to the partial variable declarations.
+Using the starting sample code in the `Try.java` file, try to match a data type to the partial variable declarations.
 
 Each variable is being assigned a value, but doesn't have it's data type written at the beginning of the line like it's supposed to, can you fill in the correct type?
 
