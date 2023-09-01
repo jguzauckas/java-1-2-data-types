@@ -13,6 +13,6 @@ This section covers the following material:
 - Booleans
 - `final` Keyword
 
-To use this repository, start with the `notes.md` document, referencing the various `.java` documents as you go to see the examples in action. I have created videos that walk through these notes that you can watch/listen to [here](https://www.youtube.com/playlist?list=PLZRWEE_uVdNvtu1wjQOiBuc5zvqZPOPMT)
+To use this repository, start with the `notes.md` document, referencing the various `.java` documents as you go to see the examples in action.
 
 Once you have completed the assignment, save the Java files and commit and push your changes via GitHub Desktop.
